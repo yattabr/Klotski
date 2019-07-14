@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Klotski</string>
+
+    <array name="game_board_image">
+        <item>@drawable/image_0</item>
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_6</item>
+    </array>
+</resources>

@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Klotski</string>
+    <string name="click_start">Click in the Yellow block to start</string>
 
     <array name="game_board_image">
         <item>@drawable/image_0</item>
